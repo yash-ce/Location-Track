@@ -1,6 +1,5 @@
 package com.example.location;
 
-//package com.freakyjolly.demobackgroundlocation;
 
 import android.annotation.SuppressLint;
 import android.app.Notification;
@@ -26,9 +25,6 @@ import java.util.Locale;
 import static android.content.Context.NOTIFICATION_SERVICE;
 
 
-/**
- * Created by FreakyJolly on 01-04-2018.
- */
 
 public class Utils {
     private static final String TAG = "UtilsClass";
@@ -133,5 +129,3 @@ public class Utils {
     }
 }
 
-//public class Utils {
-//}
