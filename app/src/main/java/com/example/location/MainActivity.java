@@ -1,5 +1,5 @@
 package com.example.location;
-//package com.freakyjolly.demobackgroundlocation;
+
 
 import android.Manifest;
 import android.annotation.SuppressLint;
@@ -45,9 +45,7 @@ import com.google.android.gms.tasks.OnSuccessListener;
 import com.google.android.gms.tasks.Task;
 import com.google.android.material.snackbar.Snackbar;
 
-//import android.support.design.widget.Snackbar;
 
-//import static xdroid.toaster.Toaster.toast;
 
 public class MainActivity extends AppCompatActivity implements
         SharedPreferences.OnSharedPreferenceChangeListener {
@@ -400,16 +398,3 @@ public class MainActivity extends AppCompatActivity implements
     }
 
 }
-//
-//import androidx.appcompat.app.AppCompatActivity;
-//
-//import android.os.Bundle;
-//
-//public class MainActivity extends AppCompatActivity {
-//
-//    @Override
-//    protected void onCreate(Bundle savedInstanceState) {
-//        super.onCreate(savedInstanceState);
-//        setContentView(R.layout.activity_main);
-//    }
-//}
