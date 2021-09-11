@@ -1,7 +1,7 @@
 package com.example.location;
 
 import android.content.BroadcastReceiver;
-//package com.freakyjolly.demobackgroundlocation;
+
 
 import android.content.BroadcastReceiver;
 import android.content.Context;
@@ -10,7 +10,7 @@ import android.content.Intent;
 import java.text.DateFormat;
 import java.util.Date;
 
-//com.freakyjolly.demobackgroundlocation
+
 
 public class LocationUpdatesBroadcastReceiver extends BroadcastReceiver {
     private static final String TAG = "LUBroadcastReceiver";
@@ -33,5 +33,3 @@ public class LocationUpdatesBroadcastReceiver extends BroadcastReceiver {
 
 
 
-//public class LocationUpdatesBroadcastReceiver extends BroadcastReceiver {
-//}
