@@ -1,6 +1,5 @@
 package com.example.location;
 
-//package com.freakyjolly.demobackgroundlocation;
 
 import android.content.Context;
 import android.content.SharedPreferences;
@@ -115,5 +114,3 @@ public class LocationRequestHelper {
 
 }
 
-//public class LocationRequestHelper {
-//}
